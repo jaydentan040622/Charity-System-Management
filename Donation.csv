@@ -1,0 +1,7 @@
+Donation ID,Donor ID,Amount,Date,Payment Method,Receipt Number,Donation Type,Notes
+D001,DA838,20.00,2000-12-12,online,RN519,CASH,nooo
+D002,DA838,20.00,2000-12-12,online,RN623,FOOD,nooo
+D003,DA838,12.00,2000-10-10,online,RN964,FOOD,nooo
+D004,DA403,21.00,2000-12-12,online,RN882,FOOD,nooo
+D005,DA838,10.00,2000-12-12,cash,RN562,FOOD,noo
+D006,DA218,2231.00,2000-12-12,cash,RN852,CASH,nooo
